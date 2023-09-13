@@ -10,3 +10,48 @@
 
 **Vamos juntos construir um futuro tecnológico promissor!**
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Joseph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Joseph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Joseph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joseph-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Joseph-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Joseph-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Joseph-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Joseph-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Joseph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+
+  ##
+  
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=negojoseph&show_icons=true&theme=radical"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=negojoseph&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=negojoseph&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=negojoseph&theme=radical&layout=compact"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=negojoseph&layout=donut"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=negojoseph&show_icons=true" />
+</picture>
+
+  ##
+
+<div> 
+  <a href="https://www.instagram.com/prof.josephmonteiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.tiktok.com/@prof.josephmonteiro?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Tiktok-%23333?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/702516391584202802/892024495727067177" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:negojoseph@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joseph-monteiro-86946049/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/88997108826" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%06C23C?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
