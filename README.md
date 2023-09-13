@@ -9,7 +9,7 @@
 **Meu objetivo é continuar aprendendo, buscando desafios e colaborando em projetos que possam fazer a diferença no mundo da tecnologia. Estou sempre aberto a novas oportunidades e a conectar com profissionais da área, então sinta-se à vontade para entrar em contato comigo para trocar ideias e conhecimentos.**
 
 **Vamos juntos construir um futuro tecnológico promissor!**
-<img align="right" height="450em" src="https://i.picasion.com/pic92/3a900a33801e8d2b4e457c307ea3b267.gif">
+<img align="right" height="400em" src="https://i.picasion.com/pic92/3a900a33801e8d2b4e457c307ea3b267.gif">
 <div style="display: inline_block"><br>
   <img align="center" alt="Joseph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joseph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
